@@ -31,7 +31,7 @@
             }
 
             .title {
-                font-size: 96px;
+                font-size: 46px;
             }
         </style>
     </head>
@@ -39,6 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5 by Red Alert Inc. Ver 2.0</div>
+				 <div class="title">Laravel 2 by Red Alert Inc. Ver 2.0</div>
             </div>
         </div>
     </body>
